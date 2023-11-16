@@ -1,1 +1,3 @@
 # Used-Car-Price-Prediction
+## Car price prediction has picked researchers' interest since it takes a significant amount of work and expertise on the part of the field expert. For a dependable and accurate forecast, a large number of unique attributes are analysed. We employed 6 different machine learning approaches to develop a model for forecasting the price of used automobiles. The respective performances of different algorithms were then compared to discover the one that best suited the existing data set. The final prediction model was implemented in a python programme. Furthermore, the model was tested with test data, yielding an accuracy of 87.76 percent.
+
